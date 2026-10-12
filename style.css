@@ -1,0 +1,28 @@
+st.markdown("""
+    <style>
+    .stApp {
+        background-color: #0f071e !important;
+        color: #ffffff !important;
+    }
+    h1, h2, h3, h4, h5, h6, p, span, label {
+        color: #ffffff !important;
+    }
+    .stButton>button {
+        background-color: #8b5cf6 !important;
+        color: white !important;
+        border-radius: 8px !important;
+        border: none !important;
+    }
+    .stButton>button:hover {
+        background-color: #7c3aed !important;
+    }
+    .scam-keyword {
+        background-color: #581c87;
+        color: #c084fc !important;
+        padding: 3px 8px;
+        border-radius: 5px;
+        font-weight: bold;
+        border: 1px solid #9333ea;
+    }
+    </style>
+""", unsafe_allow_html=True)
