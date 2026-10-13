@@ -1,3 +1,6 @@
 twilio
 streamlit
 SpeechRecognition
+pandas
+numpy
+
